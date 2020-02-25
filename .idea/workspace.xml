@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="13274511-e993-4d92-b61b-420da73d0841" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="game@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="game@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="game@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="game: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="game@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="game: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="user_base: table" type="dbc44a63:MariaImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="game@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="game: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="user_gobang: table" type="dbc44a63:MariaImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Gobang-Server" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XYc9w7sPqyVxhirwjEq56yJOAA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../server" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.lxc.game.gobang_server" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lxc.game.gobang_server" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pikachu\gobang_server\src\main\java\com\lxc\game\gobang_server" />
+      <recent name="D:\pikachu\gobang_server\src\main\java\com\lxc\game\base" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GobangServerApplication">
+    <configuration name="mvnw" type="BatchConfigurationType" factoryName="Batch" temporary="true">
+      <module name="gobang_server" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="WORKING_DIRECTORY" value="D:\pikachu\gobang_server" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="mvnw.cmd" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GobangServerApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gobang_server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxc.game.gobang_server.constant.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lxc.game.gobang_server" />
+      <option name="MAIN_CLASS_NAME" value="com.lxc.game.gobang_server.GobangServerApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GobangServerApplicationTests.find" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gobang_server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxc.game.gobang_server.constant.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lxc.game.gobang_server" />
+      <option name="MAIN_CLASS_NAME" value="com.lxc.game.gobang_server.GobangServerApplicationTests" />
+      <option name="METHOD_NAME" value="find" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GobangServerApplicationTests.insert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gobang_server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxc.game.gobang_server.constant.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lxc.game.gobang_server" />
+      <option name="MAIN_CLASS_NAME" value="com.lxc.game.gobang_server.GobangServerApplicationTests" />
+      <option name="METHOD_NAME" value="insert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GobangServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gobang_server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lxc.game.gobang.server.GobangServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Batch.mvnw" />
+      <item itemvalue="JUnit.GobangServerApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.GobangServerApplicationTests.find" />
+      <item itemvalue="JUnit.GobangServerApplicationTests.insert" />
+      <item itemvalue="Spring Boot.GobangServerApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GobangServerApplicationTests.find" />
+        <item itemvalue="JUnit.GobangServerApplicationTests.insert" />
+        <item itemvalue="JUnit.GobangServerApplicationTests.contextLoads" />
+        <item itemvalue="Batch.mvnw" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@16838395" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13274511-e993-4d92-b61b-420da73d0841" name="Default Changelist" comment="" />
+      <created>1581226320401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581226320401</updated>
+      <workItem from="1581226326316" duration="2935000" />
+      <workItem from="1581232105901" duration="4122000" />
+      <workItem from="1581300296245" duration="1407000" />
+      <workItem from="1581417704169" duration="1347000" />
+      <workItem from="1581419141149" duration="2743000" />
+      <workItem from="1581477902328" duration="3398000" />
+      <workItem from="1581567984742" duration="17280000" />
+      <workItem from="1581689878620" duration="2622000" />
+      <workItem from="1581757409318" duration="3858000" />
+      <workItem from="1581843418709" duration="10776000" />
+      <workItem from="1581910973420" duration="13598000" />
+      <workItem from="1582031033085" duration="185000" />
+      <workItem from="1582089885306" duration="958000" />
+      <workItem from="1582093070649" duration="11127000" />
+      <workItem from="1582119018938" duration="1734000" />
+      <workItem from="1582168083856" duration="1021000" />
+      <workItem from="1582169124929" duration="2815000" />
+      <workItem from="1582184923370" duration="24274000" />
+      <workItem from="1582259547636" duration="22584000" />
+      <workItem from="1582305121751" duration="710000" />
+      <workItem from="1582345308277" duration="20584000" />
+      <workItem from="1582427536450" duration="32146000" />
+      <workItem from="1582517947011" duration="12931000" />
+      <workItem from="1582602976657" duration="3350000" />
+      <workItem from="1582611023293" duration="1381000" />
+      <workItem from="1582612477903" duration="67000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#Assign_Data_Sources" timestamp="1581850270784">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Assign_Data_Sources/-1920.-7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581850270784" />
+    <state x="552" y="179" key="#SQL_Resolution_Scopes" timestamp="1582211350906">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#SQL_Resolution_Scopes/-1920.-7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582211350906" />
+    <state x="552" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582290763440">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.-7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582290763440" />
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1582477397361">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser/-1920.-7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582477397361" />
+    <state x="827" y="307" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582290762822">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="827" y="307" key="#com.intellij.ide.util.TreeClassChooserDialog/-1920.-7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582290762822" />
+    <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581419010799">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-1920.-7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581419010799" />
+    <state x="525" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1582357121685">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="525" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/-1920.-7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582357121685" />
+    <state x="739" y="379" width="441" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1581595144035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="379" width="441" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-1920.-7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581595144035" />
+    <state x="-1438" y="108" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1582385049010">
+      <screen x="-1920" y="-7" width="1536" height="832" />
+    </state>
+    <state x="-1438" y="108" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/-1920.-7.1536.832/0.0.1920.1040@-1920.-7.1536.832" timestamp="1582385049010" />
+    <state x="515" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582355819083">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="515" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1920.-7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582355819083" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582473410070">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.-7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582473410070" />
+    <state x="690" y="267" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1582484352679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/-1920.-7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582484352679" />
+    <state x="734" y="261" key="FileChooserDialogImpl" timestamp="1582612541491">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="734" y="261" key="FileChooserDialogImpl/-1920.-7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582612541491" />
+    <state width="1877" height="216" key="GridCell.Tab.0.bottom" timestamp="1582612405718">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="216" key="GridCell.Tab.0.bottom/-1920.-7.1536.832/0.0.1920.1040@-1920.-7.1536.832" timestamp="1582548713114" />
+    <state width="1877" height="216" key="GridCell.Tab.0.bottom/-1920.-7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582612405718" />
+    <state width="1877" height="216" key="GridCell.Tab.0.center" timestamp="1582612405718">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="216" key="GridCell.Tab.0.center/-1920.-7.1536.832/0.0.1920.1040@-1920.-7.1536.832" timestamp="1582548713114" />
+    <state width="1877" height="216" key="GridCell.Tab.0.center/-1920.-7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582612405718" />
+    <state width="1877" height="216" key="GridCell.Tab.0.left" timestamp="1582612405718">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="216" key="GridCell.Tab.0.left/-1920.-7.1536.832/0.0.1920.1040@-1920.-7.1536.832" timestamp="1582548713113" />
+    <state width="1877" height="216" key="GridCell.Tab.0.left/-1920.-7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582612405718" />
+    <state width="1877" height="216" key="GridCell.Tab.0.right" timestamp="1582612405718">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="216" key="GridCell.Tab.0.right/-1920.-7.1536.832/0.0.1920.1040@-1920.-7.1536.832" timestamp="1582548713114" />
+    <state width="1877" height="216" key="GridCell.Tab.0.right/-1920.-7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582612405718" />
+    <state width="1877" height="216" key="GridCell.Tab.1.bottom" timestamp="1582611964597">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="216" key="GridCell.Tab.1.bottom/-1920.-7.1536.832/0.0.1920.1040@-1920.-7.1536.832" timestamp="1582548713116" />
+    <state width="1877" height="216" key="GridCell.Tab.1.bottom/-1920.-7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582611964597" />
+    <state width="1877" height="216" key="GridCell.Tab.1.center" timestamp="1582611964597">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="216" key="GridCell.Tab.1.center/-1920.-7.1536.832/0.0.1920.1040@-1920.-7.1536.832" timestamp="1582548713115" />
+    <state width="1877" height="216" key="GridCell.Tab.1.center/-1920.-7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582611964597" />
+    <state width="1877" height="216" key="GridCell.Tab.1.left" timestamp="1582611964597">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="216" key="GridCell.Tab.1.left/-1920.-7.1536.832/0.0.1920.1040@-1920.-7.1536.832" timestamp="1582548713115" />
+    <state width="1877" height="216" key="GridCell.Tab.1.left/-1920.-7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582611964597" />
+    <state width="1877" height="216" key="GridCell.Tab.1.right" timestamp="1582611964597">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="216" key="GridCell.Tab.1.right/-1920.-7.1536.832/0.0.1920.1040@-1920.-7.1536.832" timestamp="1582548713115" />
+    <state width="1877" height="216" key="GridCell.Tab.1.right/-1920.-7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582611964597" />
+    <state width="1877" height="261" key="GridCell.Tab.2.bottom" timestamp="1582485267834">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.bottom/-1920.-7.1536.832/0.0.1920.1040@-1920.-7.1536.832" timestamp="1582175863441" />
+    <state width="1877" height="261" key="GridCell.Tab.2.bottom/-1920.-7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582485267834" />
+    <state width="1877" height="261" key="GridCell.Tab.2.center" timestamp="1582485267834">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.center/-1920.-7.1536.832/0.0.1920.1040@-1920.-7.1536.832" timestamp="1582175863441" />
+    <state width="1877" height="261" key="GridCell.Tab.2.center/-1920.-7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582485267834" />
+    <state width="1877" height="261" key="GridCell.Tab.2.left" timestamp="1582485267834">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.left/-1920.-7.1536.832/0.0.1920.1040@-1920.-7.1536.832" timestamp="1582175863441" />
+    <state width="1877" height="261" key="GridCell.Tab.2.left/-1920.-7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582485267834" />
+    <state width="1877" height="261" key="GridCell.Tab.2.right" timestamp="1582485267834">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.right/-1920.-7.1536.832/0.0.1920.1040@-1920.-7.1536.832" timestamp="1582175863441" />
+    <state width="1877" height="261" key="GridCell.Tab.2.right/-1920.-7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582485267834" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1582297058271">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/-1920.-7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582297058271" />
+    <state x="676" y="133" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1582211418538">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="676" y="133" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/-1920.-7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582211418538" />
+    <state x="-1701" y="-7" width="1331" height="836" key="dock-window-1" timestamp="1582464433122">
+      <screen x="-1920" y="-7" width="1536" height="832" />
+    </state>
+    <state x="-1701" y="-7" width="1331" height="836" key="dock-window-1/-1920.-7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582464433122" />
+    <state x="334" y="222" key="new project wizard" timestamp="1582472692039">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="222" key="new project wizard/-1920.-7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582472692039" />
+    <state x="702" y="138" key="refactoring.ChangeSignatureDialog" timestamp="1582480897388">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="702" y="138" key="refactoring.ChangeSignatureDialog/-1920.-7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582480897388" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1582465883623">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.-7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582465883623" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="command" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
